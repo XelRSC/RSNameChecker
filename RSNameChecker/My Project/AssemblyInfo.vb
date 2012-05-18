@@ -9,10 +9,10 @@ Imports System.Runtime.InteropServices
 ' Review the values of the assembly attributes
 
 <Assembly: AssemblyTitle("RSNameChecker")> 
-<Assembly: AssemblyDescription("")> 
-<Assembly: AssemblyCompany("")> 
+<Assembly: AssemblyDescription("Checks for runescape display name availability")> 
+<Assembly: AssemblyCompany("Badocde inc")> 
 <Assembly: AssemblyProduct("RSNameChecker")> 
-<Assembly: AssemblyCopyright("Copyright ©  2012")> 
+<Assembly: AssemblyCopyright("Copyright ©  2012 Badcode inc")> 
 <Assembly: AssemblyTrademark("")> 
 
 <Assembly: ComVisible(False)>
